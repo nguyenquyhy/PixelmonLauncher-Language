@@ -102,6 +102,7 @@ label.errorreport.extractedjar=Put venligst .jar filen ind i profilens mappe ist
 label.errorreport.unknown=Pixelmon launcher kunne ikke finde fejlen udfra Javas log.
 label.errorreport.outdatedjava=Opdater venligst din Java installation og indstil Java installationen i launcherens indstilinger.
 label.errorreport.codechickencore=Du benytter en udvidelse der kræver CodeChickenCore for at virke.
+label.errorreport.nospace=Der er ikke nok plads på din computer!
 label.pixpacks.offline1=Vi kunne ikke indlæse Pixpacks!
 label.pixpacks.offline2=Tjek venligst din internetforbindelse, og tryk derefter på opdater.
 label.pixpacks.loading=Indlæser pixpacks....
@@ -124,6 +125,7 @@ label.tutorials.newprofile.save=Og til sidst skal du trykke på gem!
 label.tutorials.pixpacks.introduction1=Pixpack er en samling af Pixelmon, udvidelser, konfigurationer & resource packs. Lavet for at få dig i gang på igen tid!.
 label.tutorials.pixpacks.introduction2=Mange af pixpacks er fra Pixelmon servere, de giver dig alle de nødvendige mods & indstillinger du skal bruger, for at spille på deres server.
 label.tutorials.pixpacks.actions=Du kan klikke på flere detaljer for at lære mere om hver enkelt pakke. Eller klikke på installer for at lave en ny profil, eller opdatere en eksisterende, med en pixpack.
+label.discord.introduction=Gratis chat fra Discord
 
 messagebox.corruptedconfig=Ødelagt konfiguration
 messagebox.corruptedsettings=Launcher indstillinger ødelagt! Vi har nulstillet alle indstillinger til deres standardværdier.
@@ -264,7 +266,7 @@ button.install=Installer
 button.update=Opdater
 button.opensettings=Åben indstillinger
 button.website=Webside
-
++button.connect=Forbind
 tooltip.newprofile=Opret ny profil
 tooltip.openfolder=Gå til profil mappe
 tooltip.openfile=Åben fil
